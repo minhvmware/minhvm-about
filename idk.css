@@ -1,0 +1,14 @@
+html{
+  height: 100%;
+}
+body {
+  background-image: linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89));
+  
+  /*Additional Styling*/
+  
+  font-family: 'Lexend Deca', sans-serif;
+  width: 800px; 
+  margin: auto;
+  padding-top: 30px;
+  color: white;
+}
